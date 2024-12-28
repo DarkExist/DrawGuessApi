@@ -1,0 +1,6 @@
+@DrawGuessApi.Api_HostAddress = http://localhost:5291
+
+GET {{DrawGuessApi.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

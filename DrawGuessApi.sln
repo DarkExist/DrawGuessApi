@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawGuessApi.Api", "DrawGuessApi.Api\DrawGuessApi.Api.csproj", "{E8D23CDF-A56C-40A0-9A73-6FC64DAA7838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawGuessApi.Infrastructure", "DrawGuessApi.Infrastructure\DrawGuessApi.Infrastructure.csproj", "{A8B1458A-A382-4805-ACA2-2254B3B3D74B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawGuessApi.Contracts", "DrawGuessApi.Contracts\DrawGuessApi.Contracts.csproj", "{E97119A7-585B-4A52-A76D-8249D6B036D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawguessApi.Services", "DrawguessApi.Services\DrawguessApi.Services.csproj", "{18591553-D2C9-4C48-AC21-FDBB0912FFD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawGuessApi.Core", "DrawGuessApi.Core\DrawGuessApi.Core.csproj", "{B584FE4E-DEB7-41E5-86EB-56908D4720F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawGuessApi.Application", "DrawGuessApi.Application\DrawGuessApi.Application.csproj", "{E923C00A-A64B-46A9-8A92-B09F82E9DFB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8D23CDF-A56C-40A0-9A73-6FC64DAA7838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D23CDF-A56C-40A0-9A73-6FC64DAA7838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D23CDF-A56C-40A0-9A73-6FC64DAA7838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D23CDF-A56C-40A0-9A73-6FC64DAA7838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B1458A-A382-4805-ACA2-2254B3B3D74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B1458A-A382-4805-ACA2-2254B3B3D74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B1458A-A382-4805-ACA2-2254B3B3D74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B1458A-A382-4805-ACA2-2254B3B3D74B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E97119A7-585B-4A52-A76D-8249D6B036D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E97119A7-585B-4A52-A76D-8249D6B036D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E97119A7-585B-4A52-A76D-8249D6B036D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E97119A7-585B-4A52-A76D-8249D6B036D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18591553-D2C9-4C48-AC21-FDBB0912FFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18591553-D2C9-4C48-AC21-FDBB0912FFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18591553-D2C9-4C48-AC21-FDBB0912FFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18591553-D2C9-4C48-AC21-FDBB0912FFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B584FE4E-DEB7-41E5-86EB-56908D4720F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B584FE4E-DEB7-41E5-86EB-56908D4720F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B584FE4E-DEB7-41E5-86EB-56908D4720F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B584FE4E-DEB7-41E5-86EB-56908D4720F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E923C00A-A64B-46A9-8A92-B09F82E9DFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E923C00A-A64B-46A9-8A92-B09F82E9DFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E923C00A-A64B-46A9-8A92-B09F82E9DFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E923C00A-A64B-46A9-8A92-B09F82E9DFB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E95ED51F-EE43-4705-8F06-B683EB6014FD}
+	EndGlobalSection
+EndGlobal
